@@ -1,4 +1,6 @@
-# FinalProjectDeliverable2
+# FinalProjectDeliverable3
+
+Additional link to twb file https://github.com/c2j185/Final_Project/blob/main/COVID_Map_Data.twb
 
 Our team has chosen to stilc with the same shape roles throughout the project as approved in class.   I am responsible for the O (Database) role.
 
